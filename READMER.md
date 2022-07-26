@@ -7,6 +7,7 @@ https://pydefis.callicode.fr/defis/C22_KonamiCode/txt
 En plus de répondre simplement au défi, il a été construit avec le module de test 'Pytest'.
 
 En s'inspirant de la méthode 'Test-Driven Development'
+https://openclassrooms.com/fr/courses/4425126-testez-votre-projet-avec-python/4435374-decouvrez-le-test-driven-development
 - A quasi chaque méthode, j'ai d'abord mis un test avant de la développer. Ce qui donne des red flag
 - le code fonctionnant, c'est du green.
 - une fois que tous les tests sont au vert, j'ai refactorisé.
