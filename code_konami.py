@@ -59,7 +59,7 @@ class Resoudre_le_defis():
     
     def extraire_zone_message(self, lst_totale):
         """Met dans une liste les élèments correspondants aux ligne sdu message codé"""
-        lst_final = lst_totale[49:-4]
+        lst_final = lst_totale[48:-4]
         #print(lst_final)
         return lst_final
     
