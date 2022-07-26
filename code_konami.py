@@ -99,5 +99,3 @@ class Resoudre_le_defis():
 if __name__ == "__main__":
     go = Resoudre_le_defis()
     print(go.enchainer())
-    #go.traduction('↑↑↓↓←→←→BA',{'BA' : 'e', '←→' : 'm', '↓↓' : 'o', '↑↑' : 'p'})
-    
