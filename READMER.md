@@ -1,6 +1,6 @@
 **Date** : 26 juillet 2022
 
-**author** : silanoc
+**author** : Silanoc
 
 ## Description
 Code permettant de résoudre le défi 'code Konami' sur le site pydefis.callicode
@@ -12,9 +12,9 @@ https://openclassrooms.com/fr/courses/4425126-testez-votre-projet-avec-python/44
 
 En s'inspirant de la méthode 'Test-Driven Development'
 https://openclassrooms.com/fr/courses/4425126-testez-votre-projet-avec-python/4435374-decouvrez-le-test-driven-development
-- À quasi chaque méthode, j'ai d'abord mis un test avant de la développer. Ce qui donne des red flag
-- le code fonctionnant, c'est du green flag.
-- une fois que tous les tests sont au vert, j'ai refactorisé.
+- À quasi chaque méthode, j'ai d'abord mis un test avant de la développer. Ce qui donne des red flags.
+- Le code fonctionnant, c'est du green flag.
+- Une fois que tous les tests sont au vert, j'ai refactorisé.
 
 ## fichiers joins :
 - code_konami.py : le code principal
